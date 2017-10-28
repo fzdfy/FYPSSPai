@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  BaseProject-OC
+
+  Created by 凤云鹏 on 2016/12/20.
+  Copyright © 2016年 FYP. All rights reserved.
+*/
+
+
+PYExampleSearchPlaceholderText = "亲子出游必备";
+
+/**
+ * TabBarText
+ **/
+VedioTabBarText = "Vedio";
+ChatTabBarText = "Chat";
+MusicTabBarText = "Music";
+PlayTabBarText = "Play";
+
+HomeTabBarText = "";
+FoundTabBarText = "";
+MessageTabBarText = "";
+MineTabBarText = "";

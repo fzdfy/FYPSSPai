@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/MFQ/Documents/IOS_FYP/iOS知识点/项目/每周一练/10.21高仿少数派/FYPSSPai/FYPSSPai/Utils/DeviceUitil/DeviceUitil.h \
+  /Users/MFQ/Documents/IOS_FYP/iOS知识点/项目/每周一练/10.21高仿少数派/FYPSSPai/FYPSSPai/Config/Fonts.h \
+  /Users/MFQ/Documents/IOS_FYP/iOS知识点/项目/每周一练/10.21高仿少数派/FYPSSPai/FYPSSPai/Config/Colors.h \
+  /Users/MFQ/Documents/IOS_FYP/iOS知识点/项目/每周一练/10.21高仿少数派/FYPSSPai/FYPSSPai/Config/Configs.h \
+  /Users/MFQ/Documents/IOS_FYP/iOS知识点/项目/每周一练/10.21高仿少数派/FYPSSPai/FYPSSPai/PrefixHeader.pch \
+  /Users/MFQ/Documents/IOS_FYP/iOS知识点/项目/每周一练/10.21高仿少数派/FYPSSPai/FYPSSPai/ViewController/Home/HomeViewController.m \
+  /Users/MFQ/Documents/IOS_FYP/iOS知识点/项目/每周一练/10.21高仿少数派/FYPSSPai/FYPSSPai/ViewController/Home/HomeViewController.h \
+  /Users/MFQ/Documents/IOS_FYP/iOS知识点/项目/每周一练/10.21高仿少数派/FYPSSPai/FYPSSPai/ViewController/Base/BaseViewController.h \
+  /Users/MFQ/Documents/IOS_FYP/iOS知识点/项目/每周一练/10.21高仿少数派/FYPSSPai/FYPSSPai/ViewController/Home/View/HeadView.h \
+  /Users/MFQ/Documents/IOS_FYP/iOS知识点/项目/每周一练/10.21高仿少数派/FYPSSPai/FYPSSPai/ViewController/Home/View/FYPRefreshHeader.h \
+  /Users/MFQ/Documents/IOS_FYP/iOS知识点/项目/每周一练/10.21高仿少数派/FYPSSPai/FYPSSPai/ViewController/Home/View/FYPMJRefreshHeader.h \
+  /Users/MFQ/Documents/IOS_FYP/iOS知识点/项目/每周一练/10.21高仿少数派/FYPSSPai/FYPSSPai/ViewController/Home/Mode/AdsModel.h \
+  /Users/MFQ/Documents/IOS_FYP/iOS知识点/项目/每周一练/10.21高仿少数派/FYPSSPai/FYPSSPai/ViewController/Home/View/Cell/AdsCell.h \
+  /Users/MFQ/Documents/IOS_FYP/iOS知识点/项目/每周一练/10.21高仿少数派/FYPSSPai/FYPSSPai/ViewController/Home/View/Cell/NewsCell.h \
+  /Users/MFQ/Documents/IOS_FYP/iOS知识点/项目/每周一练/10.21高仿少数派/FYPSSPai/FYPSSPai/ViewController/Home/Mode/NewsModel.h \
+  /Users/MFQ/Documents/IOS_FYP/iOS知识点/项目/每周一练/10.21高仿少数派/FYPSSPai/FYPSSPai/ViewController/Home/View/Cell/PaidNewsCell.h \
+  /Users/MFQ/Documents/IOS_FYP/iOS知识点/项目/每周一练/10.21高仿少数派/FYPSSPai/FYPSSPai/ViewController/Home/Mode/PaidNewsModel.h \
+  /Users/MFQ/Documents/IOS_FYP/iOS知识点/项目/每周一练/10.21高仿少数派/FYPSSPai/FYPSSPai/ViewController/Home/Mode/PaidNewsFrameModel.h \
+  /Users/MFQ/Documents/IOS_FYP/iOS知识点/项目/每周一练/10.21高仿少数派/FYPSSPai/FYPSSPai/ViewController/Home/View/CatWaiting/FYPCatWaitingHUD.h \
+  /Users/MFQ/Documents/IOS_FYP/iOS知识点/项目/每周一练/10.21高仿少数派/FYPSSPai/FYPSSPai/ViewController/Home/Mode/NewsReadModel.h \
+  /Users/MFQ/Documents/IOS_FYP/iOS知识点/项目/每周一练/10.21高仿少数派/FYPSSPai/FYPSSPai/ViewController/Home/ReadViewController.h
